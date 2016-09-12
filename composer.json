@@ -11,10 +11,7 @@
     ],
     "minimum-stability": "dev",
     "extra": {
-        "project-files": [
-            "mysite",
-            ".htaccess"
-        ]
+        "project-files": ["mysite", ".htaccess"]
     },
     "require": {
         "silverstripe/framework": "4.0.x-dev",
