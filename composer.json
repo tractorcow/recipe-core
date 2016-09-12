@@ -1,0 +1,23 @@
+{
+    "name": "tractorcow/recipe-core",
+    "description": "SilverStripe recipe which contains core modules",
+    "license": "BSD-3-Clause",
+    "type": "silverstripe-recipe",
+    "authors": [
+        {
+            "name": "Damian Mooyman",
+            "email": "damian@silverstripe.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "extra": {
+        "project-files": [
+            "mysite",
+            ".htaccess"
+        ]
+    },
+    "require": {
+        "silverstripe/framework": "4.0.x-dev",
+        "tractorcow/recipe-plugin": "*"
+    }
+}
