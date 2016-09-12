@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "silverstripe/framework": "~4.0.0",
-        "tractorcow/recipe-plugin": "*"
+        "tractorcow/recipe-plugin": "*",
+        "silverstripe/framework": "~4.0.0"
     },
     "extra": {
         "project-files": [
