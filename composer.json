@@ -9,8 +9,10 @@
             "email": "damian@silverstripe.com"
         }
     ],
-    "prefer-stable": false,
-    "minimum-stability": "dev",
+    "require": {
+        "silverstripe/framework": "~4.0.0",
+        "tractorcow/recipe-plugin": "*"
+    },
     "extra": {
         "project-files": [
             "mysite/*",
@@ -20,8 +22,6 @@
             "dev-master": "4.0.x-dev"
         }
     },
-    "require": {
-        "silverstripe/framework": "~4.0.0",
-        "tractorcow/recipe-plugin": "*"
-    }
+    "prefer-stable": false,
+    "minimum-stability": "dev"
 }
