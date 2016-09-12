@@ -12,7 +12,13 @@
     "prefer-stable": false,
     "minimum-stability": "dev",
     "extra": {
-        "project-files": ["mysite", ".htaccess"]
+        "project-files": [
+            "mysite/*",
+            ".htaccess"
+        ],
+        "branch-alias": {
+            "dev-master": "4.0.x-dev"
+        }
     },
     "require": {
         "silverstripe/framework": "~4.0.0",
