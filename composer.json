@@ -11,7 +11,7 @@
     ],
     "require": {
         "tractorcow/recipe-plugin": "*",
-        "silverstripe/framework": "~4.0.0"
+        "silverstripe/framework": "~3.2"
     },
     "extra": {
         "project-files": [
@@ -19,7 +19,7 @@
             ".htaccess"
         ],
         "branch-alias": {
-            "dev-master": "4.0.x-dev"
+            "3.x-dev": "3.2.x-dev"
         }
     },
     "prefer-stable": false,
