@@ -2,7 +2,6 @@
     "name": "tractorcow/recipe-core",
     "description": "SilverStripe recipe which contains core modules",
     "license": "BSD-3-Clause",
-    
     "type": "silverstripe-recipe",
     "authors": [
         {
@@ -12,7 +11,7 @@
     ],
     "require": {
         "tractorcow/recipe-plugin": "*",
-        "silverstripe/framework": "~3.2"
+        "silverstripe/framework": "~3.4.1@stable"
     },
     "require-dev": {
         "phpunit/PHPUnit": "~3.7"
