@@ -1,6 +1,7 @@
 {
   "child-stability-inherit": true,
   "dependency-constraint": "loose",
+  
   "upgrade-only": [
     "silverstripe/framework"
   ]
