@@ -11,7 +11,7 @@
     ],
     "require": {
         "tractorcow/recipe-plugin": "*",
-        "silverstripe/framework": "~3.2"
+        "silverstripe/framework": "~3.4.1"
     },
     "require-dev": {
         "phpunit/PHPUnit": "~3.7"
