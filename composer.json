@@ -2,6 +2,7 @@
     "name": "tractorcow/recipe-core",
     "description": "SilverStripe recipe which contains core modules",
     "license": "BSD-3-Clause",
+    
     "type": "silverstripe-recipe",
     "authors": [
         {
